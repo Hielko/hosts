@@ -75,7 +75,6 @@ olmprodpowerlift-cdn.azureedge.net
 www.krux.com
 service.force.com
 www.salesforce.com
-www.fok.nl
 news.opera-api.com
 e.crashlytics.com.arnhem.chello.nl
 try.crashlytics.com
@@ -83,3 +82,4 @@ ladsreds.com
 best2019-games-web1.com
 mobile.pipe.aria.microsoft.com.arnhem.chello.nl
 www.facebook.com
+facebook.com
