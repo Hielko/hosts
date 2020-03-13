@@ -83,3 +83,4 @@
 0.0.0.0	mobile.pipe.aria.microsoft.com.arnhem.chello.nl
 0.0.0.0	www.facebook.com
 0.0.0.0	facebook.com
+0.0.0.0	m.facebook.com
