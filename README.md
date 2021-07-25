@@ -85,3 +85,5 @@
 0.0.0.0	facebook.com
 0.0.0.0	m.facebook.com
 0.0.0.0 global-turbo2.opera-mini.net
+0.0.0.0 teams.events.data.microsoft.com
+
